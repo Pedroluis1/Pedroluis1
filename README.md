@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro
 <h4>🎓Formado em Análise e Desenvolvimento de Sistemas</h4>
 <p>Sempre buscando conhecimento 📚</p>
-<a href="https://www.linkedin.com/in/pedroluis1/" target="_blank" >para mais detalhes</a>
+<a target="_blank" href="https://www.linkedin.com/in/pedroluis1/" >para mais detalhes</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Google" height="30" src="https://cdn-icons-png.flaticon.com/128/300/300221.png">
