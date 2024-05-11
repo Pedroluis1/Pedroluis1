@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro
 <h4>🎓Formado em Análise e Desenvolvimento de Sistemas</h4>
-<p>Atualmente focado na linguagem Python</p>
+<p>Sempre buscando conhecimento 📚</p>
 <a href="https://pedroluis1.github.io/Websites/meu_site/sobre_mim.html">para mais detalhes</a>
 
 <div style="display: inline_block"><br>
