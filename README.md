@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro
 <h4>🎓Formado em Análise e Desenvolvimento de Sistemas</h4>
 <p>Sempre buscando conhecimento 📚</p>
-<a blank=external href="https://www.linkedin.com/in/pedroluis1/">para mais detalhes</a>
+<a href="https://www.linkedin.com/in/pedroluis1/" target="_blank">para mais detalhes</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
